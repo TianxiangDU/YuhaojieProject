@@ -5,7 +5,7 @@ This folder contains the codes of all the project.
 
 The [toolbox](https://github.com/TianxiangDU/mmdetection) form [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/pdf/1906.07155.pdf).
 
-###Download the datasets
+### Download the datasets
 
 ```shell
 wget http://images.cocodataset.org/zips/train2017.zip
