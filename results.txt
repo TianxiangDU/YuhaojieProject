@@ -176,3 +176,15 @@ DCNv2
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.681
 2019-11-13 00:21:27,095 - INFO - Epoch [12][29317/29317]	lr: 0.00003, bbox_mAP: 0.3690, bbox_mAP_50: 0.5640, bbox_mAP_75: 0.3970, bbox_mAP_s: 0.1960, bbox_mAP_m: 0.4050, bbox_mAP_l: 0.5000, bbox_mAP_copypaste: 0.369 0.564 0.397 0.196 0.405 0.500
 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.373
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.569
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.401
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.200
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.399
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.480
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.320
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.510
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.540
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.327
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.580
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.699
